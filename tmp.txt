@@ -514,6 +514,7 @@ proxy-groups:
   - PROXY
   - FREED
   - dual_1
+  - dual_vmde
   - dual_S4 
 - name: NoAD
   type: select
